@@ -1,0 +1,11 @@
+wikipedia
+autogen-agentchat
+autogen-core
+autogen-ext
+dotenv
+streamlit
+langchain-core
+langchain-community
+langchain
+openai
+tiktoken
