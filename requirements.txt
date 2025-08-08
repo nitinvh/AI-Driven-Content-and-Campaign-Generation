@@ -9,3 +9,5 @@ langchain-community
 langchain
 openai
 tiktoken
+langchain-tavily
+
