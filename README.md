@@ -17,7 +17,8 @@ The system supports:
 
 The project architecture follows a **Selector–Planner–Team** pattern:
 
- <!-- Replace with actual path -->
+ <img width="1759" height="660" alt="image" src="https://github.com/user-attachments/assets/2a69a998-400a-4416-911e-ab72143521f2" />
+
 
 ### **1. Selector Group Chat Team**
 
