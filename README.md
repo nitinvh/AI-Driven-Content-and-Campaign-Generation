@@ -40,6 +40,7 @@ The project architecture follows a **Selector–Planner–Team** pattern:
 * **Content Reviewer (User Proxy)**:
 
   * Human reviewer who provides final feedback before moving to social media creation.
+  * Termination Signal: APPROVED (from human)
 
 ### **3. Social Media SoM**
 
@@ -52,11 +53,13 @@ The project architecture follows a **Selector–Planner–Team** pattern:
 * **Campaign Approver (User Proxy)**:
 
   * Human reviewer to approve or suggest changes to social media copy.
+  * Termination Signal: APPROVED (from human)
 
 ### **4. Director (User Proxy)**
 
 * Reviews **final article** and **social media posts** together.
 * Provides final approval before publishing.
+* Termination Signal: FINALIZE (from human)
 
 ---
 
